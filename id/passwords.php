@@ -17,6 +17,6 @@ return [
     'sent' => 'Kami telah mengirim Anda email berisi tautan pengaturan ulang kata sandi.',
     'throttled' => 'Harap tunggu sebelum mencoba lagi.',
     'token' => 'Token pengaturan ulang kata sandi ini tidak valid.',
-    'user' => "Kami tidak dapat menemukan pengguna dengan alamat email tersebut.",
+    'user' => 'Kami tidak dapat menemukan pengguna dengan alamat email tersebut.',
 
 ];
