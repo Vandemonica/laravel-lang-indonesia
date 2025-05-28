@@ -1,14 +1,17 @@
+**Indonesian** / [English](./README.en.md)
+
+
 # 📚 Laravel lang Indonesia
 
-Terjemahan bahasa Indonesia manual (by me) untuk Laravel versi 10+ yang bertujuan untuk
-membuat projectmu tidak terasa terlalu Google Translate-ish,
-terdiri dari terjemahan untuk pesan otentikasi, paginasi, reset password dan validasi.
+Terjemahan bahasa Indonesia untuk Laravel versi 10+ yang dibuat dengan
+tujuan untuk membuat projectmu tidak terasa terlalu Google Translate-ish.
+Folder terdiri dari terjemahan untuk pesan otentikasi, paginasi, reset password dan validasi.
 
 
 ## ✨ Mau memakai?
 
-Untuk memakai terjemahan ini bisa tinggal download repo atau copy-paste file-filenya
-kedalam folder `lang/id` project Laravelmu.
+Untuk memakai terjemahan ini bisa tinggal download repo atau copas
+file-file PHPnya kedalam folder `lang/id` project Laravelmu.
 
 
 ## 📩 Mau komplain atau request?
@@ -21,6 +24,7 @@ bisa juga disampaikan pada issue.
 
 
 ## 📃 **License**
+
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 **[About MIT license](http://opensource.org/licenses/mit-license.php)**
